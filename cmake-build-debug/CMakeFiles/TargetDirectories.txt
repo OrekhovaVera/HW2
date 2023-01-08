@@ -1,0 +1,3 @@
+/Users/veraorehova/CLionProjects/dz2/cmake-build-debug/CMakeFiles/dz2.dir
+/Users/veraorehova/CLionProjects/dz2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/veraorehova/CLionProjects/dz2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
